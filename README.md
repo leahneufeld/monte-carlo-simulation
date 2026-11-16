@@ -1,4 +1,4 @@
-# monte-carlo-simulation
+# Monte Carlo Simulation & Statistical Error Analysis
 Python Monte Carlo simulation for numerical estimation, regression analysis, and error visualization.
 ## Technologies Used
 - Python
